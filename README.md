@@ -57,6 +57,9 @@ Styling: Tailwind CSS / Plain CSS / Bootstrap (based on preference)
 
 Version Control: Git & GitHub for source code management
 
+*Conclusion
+The Weather Dashboard project is a beginner-friendly yet comprehensive React application that highlights the power of combining modern front-end frameworks with external APIs. It serves as an excellent demonstration of web development skills and is a valuable addition to any intern’s portfolio. Upon successful completion, a certificate will be issued by CodTech on the internship’s official end date, recognizing your learning and contribution.
+
 #Output : 
 
 ![Image](https://github.com/user-attachments/assets/8dc1c4c4-003d-46bf-8c19-457cc21cfc5c)
